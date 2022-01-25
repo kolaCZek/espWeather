@@ -16,3 +16,5 @@ Solar powered Wemos D1 Pro with BME280
 
 ## Schema
 ...to be done
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kolaczek)
